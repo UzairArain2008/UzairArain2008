@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Js, Flutter & React Native**
 
-- 👨‍💻 portfolio [currently buidling one](currently buidling one)
+- 👨‍💻 portfolio (currently buidling one)
 
 - 📫 How to reach me **ua0653174@gmail.com**
 
