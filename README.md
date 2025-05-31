@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Zaavish]((none))
 
-- 🌱 I’m currently learning **Js, Flutter & React Native**
+- 🌱 I’m currently learning **Js & Flutter**
 
 - 👨‍💻 portfolio (currently buidling one)
 
