@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uzair Arain</h1>
 <h3 align="center">A passionate 16 yo Developer From Pakistan</h3>
 
-- 🔭 I’m currently working on [Zaavish]((none)) **&** [BarinAce.pro]((none))
+- 🔭 I’m currently working on [Zaavish]((none)) **&** [BarinAce.pro](([none](https://braintrain-by-wk.shorthandstories.com/thebraintrainapp/index.html)))
 
 - 🌱 I’m currently learning **Js & Flutter**
 
