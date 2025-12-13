@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzair Arain</h1>
-<h3 align="center">A passionate 16 yo Developer From Pakistan</h3>
+<h3 align="center">A passionate 17 yo Developer From Pakistan</h3>
 
 - 🔭 I’m currently working on [Zaavish]((none))
 
