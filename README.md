@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, AI/ML/DL & Flutter**
 
-- 👨‍💻 [portfolio](https://uzairarain2008.github.io/uzairarain.github.io/]
+- 👨‍💻 [portfolio](https://uzairarain2008.github.io/uzairarain.github.io/)
 
 - 📫 How to reach me **ua0653174@gmail.com**
 
