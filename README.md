@@ -13,6 +13,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairArain2008&theme=react-dark&bg_color=0D1117&hide_border=true&line=61DAFB&point=F8D847&area=true&area_color=238636" height="300" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UzairArain2008&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
