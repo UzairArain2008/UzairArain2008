@@ -1,3 +1,11 @@
+<h1 align="center">Hi there, I'm Muhammad Uzair</h1>
+
+<p align="center">
+  <b>Building Cross-platform applications while trainig AI models.</b>
+</p>
+
+---
+
 # 💫 About Me:
 🚀 Passionate about building things with code  
 🌱 Currently diving deep into Data Science, AI/ML/DL, and Flutter  
