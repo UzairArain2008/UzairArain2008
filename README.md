@@ -1,5 +1,8 @@
 # 💫 About Me:
-🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Data Science, AI/ML/DL, flutter<br>💬 Ask me about HTML, CSS
+🚀 Passionate about building things with code  
+🌱 Currently diving deep into Data Science, AI/ML/DL, and Flutter  
+💬 Comfortable with HTML & CSS and always open to learning more  
+🤝 Actively exploring Flutter and leveling up through real projects 
 
 
 ## 🌐 Socials:
