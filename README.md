@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammad Uzair</h1>
+<h1 align="center">Hey there, I'm Muhammad Uzair</h1>
 
 <p align="center">
   <b>Building Cross-platform applications while trainig AI models.</b>
