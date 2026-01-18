@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzair_arain_554) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-96a350293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ua0653174@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzair_arain_554) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-96a350293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ua0653174@gmail.com) [![Streamlit](https://img.shields.io/badge/Streamlit-0066cc?logo=streamlit&logoColor=white)]([mailto:ua0653174@gmail.com](https://share.streamlit.io/user/uzairarain2008)) 
 
 ## 💻 Tech Stack:
 <a href="https://github.com/search?q=user%3AUzairArain2008+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -25,7 +25,7 @@
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0969DA.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-333333.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-0066cc.svg?logo=streamlit&logoColor=white"></a>
+<a href="https://share.streamlit.io/user/uzairarain2008"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-0066cc.svg?logo=streamlit&logoColor=white"></a>
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="#"><img alt="IOS" src="https://img.shields.io/badge/IOS-007AFF?logo=ios&logoColor=white"></a>
