@@ -13,7 +13,7 @@
 🤝 Actively exploring Flutter and leveling up through real projects 
 
 
-## 🌐 Socials:
+## 🌐 Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzair_arain_554) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-96a350293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ua0653174@gmail.com) [![Streamlit](https://img.shields.io/badge/Streamlit-0066cc?logo=streamlit&logoColor=white)]([mailto:ua0653174@gmail.com](https://share.streamlit.io/user/uzairarain2008)) 
 
 ## 💻 Tech Stack:
