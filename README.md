@@ -47,7 +47,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairArain2008&theme=react-dark&bg_color=0D1117&hide_border=true&line=61DAFB&point=F8D847&area=true&area_color=238636" height="300" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=UzairArain2008&hide_title=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UzairArain2008's GitHub stats" />
