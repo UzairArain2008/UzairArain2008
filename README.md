@@ -47,6 +47,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairArain2008&theme=react-dark&bg_color=0D1117&hide_border=true&line=61DAFB&point=F8D847&area=true&area_color=238636" height="300" />
 </p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=UzairArain2008&repo=UzairArain2008%Self_learning_model&show_owner=true&theme=tokyonight)](https://github.com/UzairArain2008/Self_learning_model)
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=UzairArain2008&hide_title=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="UzairArain2008's GitHub stats" />
